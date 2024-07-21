@@ -1,5 +1,4 @@
 <?php
-//require(__DIR__."/../utilidades/utilidadesphp/arquivos/tabela_texto.php");
 require("tabela_texto.php");
 $tabela =  new tabela;
 system('clear');
