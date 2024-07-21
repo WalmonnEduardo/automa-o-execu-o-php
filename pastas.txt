@@ -1,0 +1,14 @@
+Aula 1
+Aula 2
+Aula 3
+Aula 4
+Aula 5
+escolhaexe.php
+escolhapasta.php
+exe.php
+gerenciar.php
+local.txt
+pastas.txt
+programas.txt
+Revisão1
+tabela_texto.php
