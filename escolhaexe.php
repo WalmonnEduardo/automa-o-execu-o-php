@@ -1,5 +1,5 @@
 <?php
-$esc = readline("");
+$esc = readline("Escolha: ");
 switch($esc){
 case 1:  system("clear ; php 'Aula 1'/'ex1.php'");readline("");system("php exe.php"); break;
 case 2:  system("clear ; php 'Aula 1'/'ex2.php'");readline("");system("php exe.php"); break;
