@@ -17,7 +17,7 @@ function escolha($itens)
 {
     global $linhas;
     $quantidade = count($itens);
-    $linhas[] = "\$esc = readline(\"\");";
+    $linhas[] = "\$esc = readline(\"Escolha: \");";
     $linhas[] = "switch(\$esc){";
     for($i = 1 ; $i <= $quantidade ; $i++)
     {
