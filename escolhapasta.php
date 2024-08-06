@@ -1,5 +1,5 @@
 <?php
-$esc = readline("");
+$esc = readline("Escolha: ");
 switch($esc){
 case 1:  $pasta="Aula 1"; break;
 case 2:  $pasta="Aula 2"; break;
