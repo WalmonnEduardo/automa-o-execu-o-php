@@ -19,7 +19,7 @@ function escolha($itens)
     global $tabela;
     $local = $tabela->especial();
     $quantidade = count($itens);
-    $linhas[] = "\$esc = readline(\"\");";
+    $linhas[] = "\$esc = readline(\"Escolha: \");";
     $linhas[] = "switch(\$esc){";
     for($i = 1 ; $i <= $quantidade ; $i++)
     {
